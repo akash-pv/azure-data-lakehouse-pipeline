@@ -11,6 +11,7 @@ The pipeline ingests raw data, processes and transforms it using scalable servic
 ## 🏗 Architecture
 
 Data Source → Azure Data Factory → ADLS Gen2 (Bronze) → Databricks (PySpark) → ADLS Gen2 (Silver) → Azure Synapse (Gold)
+<img width="1004" height="529" alt="image" src="https://github.com/user-attachments/assets/6247d0b8-8029-4feb-86e2-a3500e06f323" />
 
 ---
 
