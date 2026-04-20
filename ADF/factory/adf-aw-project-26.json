@@ -1,0 +1,9 @@
+{
+	"name": "adf-aw-project-26",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "",
+		"tenantId": ""
+	}
+}
