@@ -71,7 +71,3 @@ Data Source → Azure Data Factory → ADLS Gen2 (Bronze) → Databricks (PySpar
 - Simulated real-world cloud data engineering workflow  
 
 ---
-
-## 👨‍💻 Author
-
-Akash PV
